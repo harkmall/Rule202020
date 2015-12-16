@@ -13,6 +13,7 @@
 		A701B97D1C20ACEC005F460A /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = A701B97B1C20ACEC005F460A /* MainMenu.xib */; };
 		A701B9871C20AF4D005F460A /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A701B9851C20AF4D005F460A /* MainViewController.m */; };
 		A701B9881C20AF4D005F460A /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A701B9861C20AF4D005F460A /* MainViewController.xib */; };
+		A701B98B1C21F8F5005F460A /* EventMonitor.m in Sources */ = {isa = PBXBuildFile; fileRef = A701B98A1C21F8F5005F460A /* EventMonitor.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		A701B9841C20AF4D005F460A /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		A701B9851C20AF4D005F460A /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		A701B9861C20AF4D005F460A /* MainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
+		A701B9891C21F8F5005F460A /* EventMonitor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventMonitor.h; sourceTree = "<group>"; };
+		A701B98A1C21F8F5005F460A /* EventMonitor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventMonitor.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				A701B9741C20ACEC005F460A /* AppDelegate.m */,
 				A701B9841C20AF4D005F460A /* MainViewController.h */,
 				A701B9851C20AF4D005F460A /* MainViewController.m */,
+				A701B9891C21F8F5005F460A /* EventMonitor.h */,
+				A701B98A1C21F8F5005F460A /* EventMonitor.m */,
 				A701B9861C20AF4D005F460A /* MainViewController.xib */,
 				A701B9791C20ACEC005F460A /* Assets.xcassets */,
 				A701B97B1C20ACEC005F460A /* MainMenu.xib */,
@@ -153,6 +158,7 @@
 				A701B9781C20ACEC005F460A /* main.m in Sources */,
 				A701B9871C20AF4D005F460A /* MainViewController.m in Sources */,
 				A701B9751C20ACEC005F460A /* AppDelegate.m in Sources */,
+				A701B98B1C21F8F5005F460A /* EventMonitor.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
